@@ -38,6 +38,7 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
         - Confusion Matrix
         - Plotting the confusion matrix
 ## GUI (Graphical User Interface)
+Training the random forest classifier on complete dataset and saving it for gui
 ![aaa](https://github.com/Alokkumar7272/Heart_disease/assets/98576439/022fef2b-da70-4eeb-9f2f-4330ec83fb6b)
 ![bbb](https://github.com/Alokkumar7272/Heart_disease/assets/98576439/e3960e4d-4e43-4dcf-9358-7d0cb27b82aa)
 
